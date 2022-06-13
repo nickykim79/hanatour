@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>
+        간단한 설문조사에 참여하시고 혜택을 받아가세요!<br>
+        가장 선호하는 여행지는 어디인가요?
+        <input type="checkbox" name="country1"> 유럽
+        <input type="checkbox" name="country1"> 미국(남미 포함)
+        <input type="checkbox" name="country1"> 동남아
+        <input type="checkbox" name="country1"> 중국
+        <input type="checkbox" name="country1"> 일본
+        <input type="checkbox" name="country1"> 기타<br>
+        여행을 가서 가장 해야한다고 생각하는 일은 무엇인가요?<br>
+        <input type="radio" name="task1"> 전통을 느낄 수 있는 유적지 탐방
+        <input type="radio" name="task1"> 미술관이나 박물관 등의 관광지 방문
+        <input type="radio" name="task1"> 바다나 산과 같이 자연절경을 즐길 수 있는 곳 방문
+        <input type="radio" name="task1"> 종교적인 장소들 탐방(사원이나 교회,성당등)
+        <input type="radio" name="task1"> 굴레에 얽매이지 않는 자유여행<br>
+        여행에서 선호하는 이동수단은 무엇이 있나요?
+        <input type="radio" name="vehicle1"> 버스
+        <input type="radio" name="vehicle1"> 렌트카
+        <input type="radio" name="vehicle1"> 그 나라만의 이동수단
+        <input type="radio" name="vehicle1"> 걸어다니기
+    </p>
+</body>
+</html>
